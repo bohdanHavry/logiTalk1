@@ -2,7 +2,8 @@ from customtkinter import *
 from PIL import Image
 from socket import *
 import threading
-
+  
+print()
 class AuthWindow(CTk):
     def __init__(self):
         super().__init__()
